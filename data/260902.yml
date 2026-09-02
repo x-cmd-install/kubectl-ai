@@ -1,0 +1,60 @@
+about:
+  description: AI powered Kubernetes Assistant
+  license: Apache-2.0
+  homepage: 
+  head: 2c8ff82
+  archived: false
+  latestVersion: v0.0.31
+  collectedAt: 2026-09-02T03:57:00Z
+timeline:
+  created: 2025-01-20
+  lastCommit: 2026-07-15
+  lastRelease: 2026-03-27
+popularity:
+  star: 7560
+  watcher: 48
+  fork: 718
+  release: 31
+  contributor: 541
+  pullRequest: 139
+  issue: 173
+language:
+  Go: 612337
+  HTML: 53489
+  Shell: 33529
+  Makefile: 5403
+  Dockerfile: 2942
+totalLine: 707700
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 0
+    openPR: 3
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-04
+    release: 0
+    mergedPR: 0
+    openPR: 9
+    closedIssue: 0
+    openIssue: 1
+    commit: 1
+  last180d:
+    since: 2026-03-06
+    release: 2
+    mergedPR: 3
+    openPR: 40
+    closedIssue: 0
+    openIssue: 3
+    commit: 4
+  last360d:
+    since: 2025-09-07
+    release: 8
+    mergedPR: 81
+    openPR: 52
+    closedIssue: 3
+    openIssue: 17
+    commit: 74
