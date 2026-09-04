@@ -7,7 +7,7 @@ about:
   head: 2c8ff82
   archived: false
   latestVersion: v0.0.31
-  collectedAt: 2026-09-04T19:22:40Z
+  collectedAt: 2026-09-04T21:16:59Z
 timeline:
   created: 2025-01-20
   lastCommit: 2026-07-15
@@ -84,5 +84,58 @@ total:
   openIssue: 99
   commit: 422
 ---
+path: /home/runner/.x-repo/github.com/GoogleCloudPlatform/kubectl-ai
+collectedAt: 2026-09-04T21:16:59Z
+loc:
+  Go:
+    code: 15253
+    comments: 2797
+    blanks: 2901
+    files: 73
+  Yaml:
+    code: 769
+    comments: 9
+    blanks: 38
+    files: 20
+  Bash:
+    code: 410
+    comments: 80
+    blanks: 102
+    files: 8
+  Sh:
+    code: 284
+    comments: 157
+    blanks: 88
+    files: 12
+  Makefile:
+    code: 101
+    comments: 33
+    blanks: 30
+    files: 1
+  Dockerfile:
+    code: 63
+    comments: 4
+    blanks: 28
+    files: 3
+  Html:
+    code: 26
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 979
+    blanks: 541
+    files: 14
+  Text:
+    code: 0
+    comments: 119
+    blanks: 15
+    files: 1
+total:
+  code: 18257
+  comments: 4273
+  blanks: 3907
+  files: 133
 ---
 
