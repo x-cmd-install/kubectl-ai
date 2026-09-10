@@ -1,0 +1,84 @@
+- repo: aur
+  srcname: kubectl-ai
+  binname: kubectl-ai
+  visiblename: kubectl-ai
+  version: 0.0.31
+  origversion: 0.0.31-2
+  status: newest
+  summary: AI powered Kubernetes Assistant
+  maintainers:
+    - drgrove@aur
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: kubectl-ai-bin
+  binname: kubectl-ai-bin
+  visiblename: kubectl-ai-bin
+  version: 0.0.31
+  origversion: 0.0.31-1
+  status: newest
+  summary: AI powered Kubernetes Assistant
+  maintainers:
+    - cwrau@aur
+  licenses:
+    - Apache-2.0
+- repo: homebrew
+  srcname: kubectl-ai
+  visiblename: kubectl-ai
+  version: 0.0.31
+  origversion: null
+  status: newest
+  summary: AI powered Kubernetes Assistant
+- repo: homebrew
+  srcname: kubectl-ai
+  visiblename: kubectl-ai
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: AI powered Kubernetes Assistant
+- repo: nix_stable_25_11
+  srcname: kubectl-ai
+  visiblename: kubectl-ai
+  version: 0.0.26
+  origversion: null
+  status: outdated
+  summary: AI powered Kubernetes Assistant
+  maintainers:
+    - nix@pilz.foo
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: kubectl-ai
+  visiblename: kubectl-ai
+  version: 0.0.26
+  origversion: null
+  status: outdated
+  summary: AI powered Kubernetes Assistant
+  maintainers:
+    - nix@pilz.foo
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: kubectl-ai
+  visiblename: kubectl-ai
+  version: 0.0.26
+  origversion: null
+  status: outdated
+  summary: AI powered Kubernetes Assistant
+  maintainers:
+    - nix@pilz.foo
+  licenses:
+    - Apache-2.0
+- repo: t2
+  srcname: kubectl-ai
+  visiblename: kubectl-ai
+  version: 0.0.31
+  origversion: null
+  status: newest
+  summary: AI powered Kubernetes Assistant
+  maintainers:
+    - rene@exactco.de
+  licenses:
+    - APL
+  categories:
+    - extra/tool
