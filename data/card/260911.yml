@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.0.31"
   latestRelease: "v0.0.31"
   latestPrerelease: "v0.0.21"
-  collectedAt: 2026-09-11T04:43:25Z
+  collectedAt: 2026-09-11T20:28:23Z
 timeline:
   created: 2025-01-20
   lastCommit: 2026-07-15
@@ -15,11 +15,11 @@ timeline:
   lastRelease: 2026-03-27
   lastPrerelease: 2025-08-13
 popularity:
-  star: 7566
+  star: 7565
   watcher: 49
   fork: 718
   release: 31
-  contributor: 543
+  contributor: 544
   pullRequest: 503
   issue: 173
 language:
@@ -87,7 +87,7 @@ total:
   commit: 422
 ---
 path: /home/runner/.x-repo/github.com/GoogleCloudPlatform/kubectl-ai
-collectedAt: 2026-09-11T04:43:26Z
+collectedAt: 2026-09-11T20:28:25Z
 loc:
   Go:
     code: 15253
