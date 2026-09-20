@@ -4,7 +4,7 @@
 
 AI powered Kubernetes Assistant
 
-![kubectl-ai](https://repo.x-cmd.io/kubectl-ai.svg?lang=zh)
+[![x-cmd/install — kubectl-ai Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kubectl-ai.svg?lang=zh)](https://x-cmd.com/install/kubectl-ai)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install kubectl-ai
 
 ## 流行度
 
-- **Star**: 7,567 · **Fork**: 718 · **开放 issue**: 173 · **贡献者**: 547
+- **Star**: 7,566 · **Fork**: 720 · **开放 issue**: 173 · **贡献者**: 547
 
 ## 累计统计
 
-- **发布数**: 31 · **已合并 PR**: 359 · **开放 PR**: 81 · **已关闭 issue**: 74 · **开放 issue**: 99 · **提交数**: 422
+- **发布数**: 31 · **已合并 PR**: 359 · **开放 PR**: 83 · **已关闭 issue**: 74 · **开放 issue**: 99 · **提交数**: 422
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 6 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 11 | 0 | 1 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 14 | 0 | 1 | 1 |
-| last180d | 2026-03-22 | 1 | 2 | 41 | 0 | 3 | 2 |
-| 360d | 2025-09-23 | 6 | 67 | 53 | 1 | 11 | 67 |
-| last720d | 2024-09-28 | 31 | 359 | 81 | 74 | 99 | 422 |
+| 30d | 2026-08-21 | 0 | 0 | 8 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 13 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 16 | 0 | 1 | 1 |
+| last180d | 2026-03-24 | 1 | 1 | 42 | 0 | 3 | 2 |
+| 360d | 2025-09-25 | 6 | 64 | 55 | 1 | 11 | 67 |
+| last720d | 2024-09-30 | 31 | 359 | 83 | 74 | 99 | 422 |
 
 ## Release 资产
 
@@ -77,4 +77,4 @@ kubectl-ai 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:08:00Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:05:36Z._

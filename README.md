@@ -4,7 +4,7 @@
 
 AI powered Kubernetes Assistant
 
-![kubectl-ai](https://repo.x-cmd.io/kubectl-ai.svg)
+[![x-cmd/install — kubectl-ai Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kubectl-ai.svg)](https://x-cmd.com/install/kubectl-ai)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **16,906** lines of code across **114** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,567 · **Forks**: 718 · **Open issues**: 173 · **Contributors**: 547
+- **Stars**: 7,566 · **Forks**: 720 · **Open issues**: 173 · **Contributors**: 547
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 359 · **Open PRs**: 81 · **Closed issues**: 74 · **Open issues**: 99 · **Commits**: 422
+- **Releases**: 31 · **Merged PRs**: 359 · **Open PRs**: 83 · **Closed issues**: 74 · **Open issues**: 99 · **Commits**: 422
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 6 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 11 | 0 | 1 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 14 | 0 | 1 | 1 |
-| last180d | 2026-03-22 | 1 | 2 | 41 | 0 | 3 | 2 |
-| 360d | 2025-09-23 | 6 | 67 | 53 | 1 | 11 | 67 |
-| last720d | 2024-09-28 | 31 | 359 | 81 | 74 | 99 | 422 |
+| 30d | 2026-08-21 | 0 | 0 | 8 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 13 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 16 | 0 | 1 | 1 |
+| last180d | 2026-03-24 | 1 | 1 | 42 | 0 | 3 | 2 |
+| 360d | 2025-09-25 | 6 | 64 | 55 | 1 | 11 | 67 |
+| last720d | 2024-09-30 | 31 | 359 | 83 | 74 | 99 | 422 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for kubectl-ai lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:07:59Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:05:35Z._
