@@ -37,7 +37,7 @@ Total: **16,906** lines of code across **114** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,565 · **Forks**: 718 · **Open issues**: 174 · **Contributors**: 547
+- **Stars**: 7,565 · **Forks**: 719 · **Open issues**: 174 · **Contributors**: 547
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **16,906** lines of code across **114** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 0 | 7 | 0 | 1 | 0 |
-| last60d | 2026-07-28 | 0 | 0 | 13 | 0 | 1 | 0 |
-| 90d | 2026-06-28 | 0 | 0 | 16 | 0 | 2 | 1 |
-| last180d | 2026-03-30 | 0 | 1 | 41 | 0 | 4 | 1 |
-| 360d | 2025-10-01 | 6 | 61 | 55 | 0 | 12 | 61 |
-| last720d | 2024-10-06 | 31 | 359 | 83 | 74 | 100 | 422 |
+| 30d | 2026-08-28 | 0 | 0 | 7 | 0 | 1 | 0 |
+| last60d | 2026-07-29 | 0 | 0 | 13 | 0 | 1 | 0 |
+| 90d | 2026-06-29 | 0 | 0 | 16 | 0 | 2 | 1 |
+| last180d | 2026-03-31 | 0 | 1 | 41 | 0 | 4 | 1 |
+| 360d | 2025-10-02 | 6 | 61 | 55 | 0 | 12 | 61 |
+| last720d | 2024-10-07 | 31 | 359 | 83 | 74 | 100 | 422 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for kubectl-ai lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T04:56:50Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:19:33Z._
