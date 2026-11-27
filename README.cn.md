@@ -14,11 +14,11 @@ x install kubectl-ai
 
 ## 代码洞察
 
-合计: **16,906** 行代码（覆盖前 5 种语言、共 **114** 个文件）。
+合计: **17,112** 行代码（覆盖前 5 种语言、共 **115** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 15,253 | 2,797 | 2,901 | 73 |
+| Go | 15,459 | 2,810 | 2,922 | 74 |
 | Yaml | 769 | 9 | 38 | 20 |
 | Bash | 410 | 80 | 102 | 8 |
 | Sh | 284 | 157 | 88 | 12 |
@@ -32,27 +32,27 @@ x install kubectl-ai
 ## 发布
 
 - **最新版本**: `v0.0.31` (2026-03-27)
-- **最近提交**: 2026-07-15
+- **最近提交**: 2026-11-27
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 7,605 · **Fork**: 727 · **开放 issue**: 177 · **贡献者**: 530
+- **Star**: 7,607 · **Fork**: 726 · **开放 issue**: 177 · **贡献者**: 531
 
 ## 累计统计
 
-- **发布数**: 31 · **已合并 PR**: 359 · **开放 PR**: 89 · **已关闭 issue**: 75 · **开放 issue**: 102 · **提交数**: 422
+- **发布数**: 31 · **已合并 PR**: 371 · **开放 PR**: 75 · **已关闭 issue**: 75 · **开放 issue**: 102 · **提交数**: 447
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 3 | 1 | 1 | 0 |
-| last60d | 2026-09-27 | 0 | 0 | 7 | 1 | 1 | 0 |
-| 90d | 2026-08-28 | 0 | 0 | 14 | 1 | 3 | 0 |
-| last180d | 2026-05-30 | 0 | 1 | 22 | 1 | 4 | 0 |
-| 360d | 2025-12-01 | 4 | 13 | 56 | 1 | 10 | 0 |
-| last720d | 2024-12-06 | 31 | 359 | 89 | 75 | 102 | 422 |
+| 30d | 2026-10-28 | 0 | 7 | 1 | 1 | 1 | 0 |
+| last60d | 2026-09-28 | 0 | 7 | 5 | 1 | 1 | 0 |
+| 90d | 2026-08-29 | 0 | 7 | 12 | 1 | 3 | 0 |
+| last180d | 2026-05-31 | 0 | 8 | 18 | 1 | 4 | 0 |
+| 360d | 2025-12-02 | 4 | 25 | 42 | 1 | 10 | 0 |
+| last720d | 2024-12-07 | 31 | 371 | 75 | 75 | 102 | 447 |
 
 ## Release 资产
 
@@ -68,6 +68,15 @@ x install kubectl-ai
 | [kubectl-ai_Windows_i386.zip](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/download/v0.0.31/kubectl-ai_Windows_i386.zip) | 20.5 MiB | `native/win/x64` |
 | [kubectl-ai_Windows_x86_64.zip](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/download/v0.0.31/kubectl-ai_Windows_x86_64.zip) | 21.9 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/kubectl-ai) 上共有 **8** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.0.31` | ✅ latest |
+| Nix unstable | `0.0.26` | ⚠️ outdated |
+
 ## 改进这些数据
 
 kubectl-ai 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `kubectl-ai` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -77,4 +86,4 @@ kubectl-ai 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T08:12:05Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T08:27:37Z._

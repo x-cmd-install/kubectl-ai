@@ -14,11 +14,11 @@ x install kubectl-ai
 
 ## Code insight
 
-Total: **16,906** lines of code across **114** files in the top 5 languages.
+Total: **17,112** lines of code across **115** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 15,253 | 2,797 | 2,901 | 73 |
+| Go | 15,459 | 2,810 | 2,922 | 74 |
 | Yaml | 769 | 9 | 38 | 20 |
 | Bash | 410 | 80 | 102 | 8 |
 | Sh | 284 | 157 | 88 | 12 |
@@ -32,27 +32,27 @@ Total: **16,906** lines of code across **114** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.0.31` (2026-03-27)
-- **Last commit**: 2026-07-15
+- **Last commit**: 2026-11-27
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 7,605 · **Forks**: 727 · **Open issues**: 177 · **Contributors**: 530
+- **Stars**: 7,607 · **Forks**: 726 · **Open issues**: 177 · **Contributors**: 531
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 359 · **Open PRs**: 89 · **Closed issues**: 75 · **Open issues**: 102 · **Commits**: 422
+- **Releases**: 31 · **Merged PRs**: 371 · **Open PRs**: 75 · **Closed issues**: 75 · **Open issues**: 102 · **Commits**: 447
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 3 | 1 | 1 | 0 |
-| last60d | 2026-09-27 | 0 | 0 | 7 | 1 | 1 | 0 |
-| 90d | 2026-08-28 | 0 | 0 | 14 | 1 | 3 | 0 |
-| last180d | 2026-05-30 | 0 | 1 | 22 | 1 | 4 | 0 |
-| 360d | 2025-12-01 | 4 | 13 | 56 | 1 | 10 | 0 |
-| last720d | 2024-12-06 | 31 | 359 | 89 | 75 | 102 | 422 |
+| 30d | 2026-10-28 | 0 | 7 | 1 | 1 | 1 | 0 |
+| last60d | 2026-09-28 | 0 | 7 | 5 | 1 | 1 | 0 |
+| 90d | 2026-08-29 | 0 | 7 | 12 | 1 | 3 | 0 |
+| last180d | 2026-05-31 | 0 | 8 | 18 | 1 | 4 | 0 |
+| 360d | 2025-12-02 | 4 | 25 | 42 | 1 | 10 | 0 |
+| last720d | 2024-12-07 | 31 | 371 | 75 | 75 | 102 | 447 |
 
 ## Release assets
 
@@ -68,6 +68,15 @@ Total: **16,906** lines of code across **114** files in the top 5 languages.
 | [kubectl-ai_Windows_i386.zip](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/download/v0.0.31/kubectl-ai_Windows_i386.zip) | 20.5 MiB | `native/win/x64` |
 | [kubectl-ai_Windows_x86_64.zip](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/download/v0.0.31/kubectl-ai_Windows_x86_64.zip) | 21.9 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **8** distros on [repology.org](https://repology.org/project/kubectl-ai). **4** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.0.31` | ✅ latest |
+| Nix unstable | `0.0.26` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for kubectl-ai lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kubectl-ai` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -77,4 +86,4 @@ Install metadata for kubectl-ai lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:12:04Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:27:37Z._
