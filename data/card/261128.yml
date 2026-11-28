@@ -1,0 +1,144 @@
+about:
+  description: "AI powered Kubernetes Assistant"
+  license: Apache-2.0
+  homepage: 
+  head: 4ddc679
+  archived: false
+  latestVersion: "v0.0.31"
+  latestRelease: "v0.0.31"
+  latestPrerelease: "v0.0.21"
+  collectedAt: 2026-11-28T07:48:24Z
+timeline:
+  created: 2025-01-20
+  lastCommit: 2026-11-27
+  lastVersion: 2026-03-27
+  lastRelease: 2026-03-27
+  lastPrerelease: 2025-08-13
+popularity:
+  star: 7606
+  watcher: 47
+  fork: 726
+  release: 31
+  contributor: 531
+  pullRequest: 520
+  issue: 177
+language:
+  Go: 619331
+  HTML: 53489
+  Shell: 33529
+  Makefile: 5403
+  Dockerfile: 2942
+totalBytes: 714694
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 0
+    mergedPR: 7
+    openPR: 1
+    closedIssue: 1
+    openIssue: 1
+    commit: 11
+  last60d:
+    since: 2026-09-29
+    release: 0
+    mergedPR: 7
+    openPR: 5
+    closedIssue: 1
+    openIssue: 1
+    commit: 11
+  last90d:
+    since: 2026-08-30
+    release: 0
+    mergedPR: 7
+    openPR: 12
+    closedIssue: 1
+    openIssue: 3
+    commit: 11
+  last180d:
+    since: 2026-06-01
+    release: 0
+    mergedPR: 8
+    openPR: 18
+    closedIssue: 1
+    openIssue: 4
+    commit: 12
+  last360d:
+    since: 2025-12-03
+    release: 3
+    mergedPR: 24
+    openPR: 42
+    closedIssue: 1
+    openIssue: 10
+    commit: 26
+  last720d:
+    since: 2024-12-08
+    release: 31
+    mergedPR: 371
+    openPR: 75
+    closedIssue: 75
+    openIssue: 102
+    commit: 447
+total:
+  release: 31
+  mergedPR: 371
+  openPR: 75
+  closedIssue: 75
+  openIssue: 102
+  commit: 447
+---
+path: /home/runner/.x-repo/github.com/GoogleCloudPlatform/kubectl-ai
+collectedAt: 2026-11-28T07:48:25Z
+loc:
+  Go:
+    code: 15459
+    comments: 2810
+    blanks: 2922
+    files: 74
+  Yaml:
+    code: 769
+    comments: 9
+    blanks: 38
+    files: 20
+  Bash:
+    code: 410
+    comments: 80
+    blanks: 102
+    files: 8
+  Sh:
+    code: 284
+    comments: 157
+    blanks: 88
+    files: 12
+  Makefile:
+    code: 101
+    comments: 33
+    blanks: 30
+    files: 1
+  Dockerfile:
+    code: 63
+    comments: 4
+    blanks: 28
+    files: 3
+  Html:
+    code: 26
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 979
+    blanks: 541
+    files: 14
+  Text:
+    code: 0
+    comments: 119
+    blanks: 15
+    files: 1
+total:
+  code: 18463
+  comments: 4286
+  blanks: 3928
+  files: 134
+---
+
+---
