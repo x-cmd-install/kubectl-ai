@@ -37,7 +37,7 @@ x install kubectl-ai
 
 ## 流行度
 
-- **Star**: 7,607 · **Fork**: 726 · **开放 issue**: 177 · **贡献者**: 531
+- **Star**: 7,606 · **Fork**: 726 · **开放 issue**: 177 · **贡献者**: 531
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install kubectl-ai
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 7 | 1 | 1 | 1 | 0 |
-| last60d | 2026-09-28 | 0 | 7 | 5 | 1 | 1 | 0 |
-| 90d | 2026-08-29 | 0 | 7 | 12 | 1 | 3 | 0 |
-| last180d | 2026-05-31 | 0 | 8 | 18 | 1 | 4 | 0 |
-| 360d | 2025-12-02 | 4 | 25 | 42 | 1 | 10 | 0 |
-| last720d | 2024-12-07 | 31 | 371 | 75 | 75 | 102 | 447 |
+| 30d | 2026-10-29 | 0 | 7 | 1 | 1 | 1 | 11 |
+| last60d | 2026-09-29 | 0 | 7 | 5 | 1 | 1 | 11 |
+| 90d | 2026-08-30 | 0 | 7 | 12 | 1 | 3 | 11 |
+| last180d | 2026-06-01 | 0 | 8 | 18 | 1 | 4 | 12 |
+| 360d | 2025-12-03 | 3 | 24 | 42 | 1 | 10 | 26 |
+| last720d | 2024-12-08 | 31 | 371 | 75 | 75 | 102 | 447 |
 
 ## Release 资产
 
@@ -68,15 +68,6 @@ x install kubectl-ai
 | [kubectl-ai_Windows_i386.zip](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/download/v0.0.31/kubectl-ai_Windows_i386.zip) | 20.5 MiB | `native/win/x64` |
 | [kubectl-ai_Windows_x86_64.zip](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/download/v0.0.31/kubectl-ai_Windows_x86_64.zip) | 21.9 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/kubectl-ai) 上共有 **8** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.0.31` | ✅ latest |
-| Nix unstable | `0.0.26` | ⚠️ outdated |
-
 ## 改进这些数据
 
 kubectl-ai 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `kubectl-ai` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -86,4 +77,4 @@ kubectl-ai 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261127.yml` · 2026-11-27T08:27:37Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T07:48:48Z._
